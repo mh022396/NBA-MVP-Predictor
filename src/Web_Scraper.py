@@ -198,7 +198,7 @@ def main():
     Create_csv_html_player(1980, 2022)
     Create_csv_html_standings(1980, 2022)
     #For recent year
-    MostRecentStatsStandingsCSV(2022) #Need to fix parsing team names, currently manually editing becuase it is only 30 teams
+    MostRecentStatsStandingsCSV(2022)
     MostRecentStatsStandingsCSV(2022)
     MostRecentYearCSV()
 
