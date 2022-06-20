@@ -6,9 +6,15 @@ using a number of regression models. These predictions are taken and then ranked
 Preproccessed data is provided for 1980-2021. Webscraping scripts not needed to run.
 
 Written with Python 3.8
+
 External Libraries used:
+
 NumPy: https://numpy.org/
+
 Pandas: https://pandas.pydata.org/
+
 Selenium: https://selenium-python.readthedocs.io/
+
 BeautifulSoup: https://pypi.org/project/beautifulsoup4/
+
 sklearn: https://scikit-learn.org/stable/
